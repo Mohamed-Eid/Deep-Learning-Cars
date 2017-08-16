@@ -1,0 +1,32 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+d3d11: failed to create device and context (887a0004).
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.697]
+    Renderer: NVIDIA GeForce 6150 LE
+    Vendor:   NVIDIA
+    VRAM:     424 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=0 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.197 seconds
+Platform assembly: C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MR-M\Desktop\car learning\Build\Applying EANNs_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1024x768 85Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 25.918320 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 698 -> priority: 1 
